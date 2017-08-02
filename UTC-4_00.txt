@@ -6,7 +6,7 @@ Hartford
 Akron
 Havana
 Albany
-Alert
+Alert NU Canada
 Philadelphia
 Pond Inlet
 Indianapolis
@@ -25,7 +25,7 @@ Raleigh
 Basse-Terre (Guadeloupe)
 Basseterre (St. Kitts)
 Richmond
-Roseau
+Roseau Dominica
 Kingstown
 Saint George's
 Knoxville
@@ -48,11 +48,11 @@ Charleston
 Charlotte
 Louisville
 Chibougamau
-Sucre
+Sucre Venezuela
 Cincinnati
 Cleveland
 Columbia (us-sc)
-Columbus
+Columbus Ohio
 Tampa
 Concord
 Manaus
@@ -75,3 +75,4 @@ New York
 Newark
 Georgetown (Guyana)
 Grise Fiord
+Punta Arenas

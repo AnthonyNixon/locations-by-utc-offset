@@ -5,11 +5,11 @@ Panama
 Pensacola
 Houston
 Pierre
-Jackson
+Jackson MS
 Austin
 Puerto Vallarta
 Jefferson City
-Baker Lake
+Baker Lake NU Canada
 Quito
 Resolute Bay
 Kansas City
@@ -19,7 +19,7 @@ Kingston
 Bismarck
 Bogota
 San Luis Potosi
-Leon
+Leon Guanajuato Mexico
 Cali
 Lima
 Cancún
@@ -45,7 +45,7 @@ Midland
 Milwaukee
 Minneapolis
 Montgomery
-Eureka
+Eureka NU
 Veracruz
 Fargo
 Nashville
